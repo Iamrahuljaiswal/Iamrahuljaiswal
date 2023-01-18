@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Rahul Jaiswal
-- 👀 I’m interested in Software Testing
-- 🌱 I’m currently learning Rest assured API TESTING
+- 👀 I’m interested in Software Development
 - 💞️ I’m looking to collaborate on new projects
 
 <!---
